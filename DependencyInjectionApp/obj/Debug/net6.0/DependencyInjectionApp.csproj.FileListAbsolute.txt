@@ -29,3 +29,4 @@ C:\Johnnie\2024\BEProjects\DependencyInjection\DependencyInjectionApp\Dependency
 C:\Johnnie\2024\BEProjects\DependencyInjection\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net6.0\DependencyInjectionApp.pdb
 C:\Johnnie\2024\BEProjects\DependencyInjection\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net6.0\DependencyInjectionApp.genruntimeconfig.cache
 C:\Johnnie\2024\BEProjects\DependencyInjection\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net6.0\ref\DependencyInjectionApp.dll
+C:\Johnnie\2024\BEProjects\DependencyInjection\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net6.0\DependencyInjectionApp.sourcelink.json
