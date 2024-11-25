@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Johnnie\\2024\\BEProjects\\DependencyInjection\\DependencyInjectionApp\\DependencyInjectionApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DependencyInjectionApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DependencyInjectionApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Johnnie\\2024\\BEProjects\\DependencyInjection\\DependencyInjectionApp\\DependencyInjectionApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Johnnie\\2024\\BEProjects\\DependencyInjection\\DependencyInjectionApp\\DependencyInjectionApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Johnnie\\2024\\BEProjects\\DependencyInjection\\DependencyInjectionApp\\DependencyInjectionApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Johnnie\\2024\\BEProjects\\DependencyInjection\\DependencyInjectionApp\\DependencyInjectionApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Johnnie\\2024\\BEProjects\\DependencyInjection\\DependencyInjectionApp\\DependencyInjectionApp\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Johnnie\\2024\\BEProjects\\DependencyInjection\\DependencyInjectionApp\\DependencyInjectionApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Johnnie\\2024\\BEProjects\\DependencyInjection\\DependencyInjectionApp\\DependencyInjectionApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Johnnie\\2024\\BEProjects\\DependencyInjection\\DependencyInjectionApp\\DependencyInjectionApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Johnnie\\2024\\BEProjects\\DependencyInjection\\DependencyInjectionApp\\DependencyInjectionApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Johnnie\\2024\\BEProjects\\DependencyInjection\\DependencyInjectionApp\\DependencyInjectionApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Johnnie\\2024\\BEProjects\\DependencyInjection\\DependencyInjectionApp\\DependencyInjectionApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Johnnie\\2024\\BEProjects\\DependencyInjection\\DependencyInjectionApp\\DependencyInjectionApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Johnnie\\2024\\BEProjects\\DependencyInjection\\DependencyInjectionApp\\DependencyInjectionApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DependencyInjectionApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DependencyInjectionApp.props",
+      "PackagePath": "build\\DependencyInjectionApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DependencyInjectionApp.props",
+      "PackagePath": "buildMultiTargeting\\DependencyInjectionApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DependencyInjectionApp.props",
+      "PackagePath": "buildTransitive\\DependencyInjectionApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
